@@ -1,2 +1,4 @@
 # handler.sh
-simple bash script to automate msfconsole multi_handler setup
+
+<img src="handler_usage.png" />
+<img src="handler.png" />
