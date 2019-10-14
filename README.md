@@ -1,7 +1,4 @@
 # handler.sh
-* Automates exploit/multi/handler setup
-* Parse payload, ip & port
-
 ```
   _             _ _         
  | |_ ___ ___ _| | |___ ___ 
