@@ -1,10 +1,5 @@
 # handler.sh
 ```
-  _             _ _         
- | |_ ___ ___ _| | |___ ___ 
- |   | .'|   | . | | -_|  _|
- |_|_|__,|_|_|___|_|___|_|
-
 usage: ./handler.sh <payload> <ip> <port>
 
 common payloads:
