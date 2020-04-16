@@ -1,10 +1,5 @@
 #!/bin/bash
 
-echo -e "\e[33m  _             _ _         "
-echo -e "\e[33m | |_ ___ ___ _| | |___ ___ "
-echo -e "\e[33m |   | .'|   | . | | -_|  _|"
-echo -e "\e[33m |_|_|__,|_|_|___|_|___|_|"
-
 if [ $# -ne 3 ]; then
     echo -e "\e[39m"
     echo "usage: $0 <payload> <ip> <port>";
