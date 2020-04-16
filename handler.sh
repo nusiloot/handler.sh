@@ -6,8 +6,8 @@ if [ $# -ne 3 ]; then
     echo ""
     echo "common payloads:"
     echo "windows/meterpreter/reverse_tcp       windows/x64/meterpreter/reverse_tcp"
-    echo "linux/x64/meterpreter/reverse_tcp     linux/x86/metepreter/reverse_tcp"
-    echo "generic/shell_reverse_tcp             php/metepreter/reverse_tcp"
+    echo "linux/x64/meterpreter/reverse_tcp     linux/x86/meterpreter/reverse_tcp"
+    echo "generic/shell_reverse_tcp             php/meterpreter/reverse_tcp"
     echo ""
     exit 1;
 fi
